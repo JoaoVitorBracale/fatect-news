@@ -3,4 +3,4 @@ Fake News automated detection search and information integrity issue
 
 <br />
 
-WARNING: Building a new project
+LINK Binder: https://hub.gke.mybinder.org/user/brunocomitre-academic-research-vkgozg16/login?next=%2Fuser%2Fbrunocomitre-academic-research-vkgozg16%2Ftree
