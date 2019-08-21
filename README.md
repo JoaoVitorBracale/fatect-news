@@ -3,4 +3,4 @@ Fake News automated detection search and information integrity issue
 
 <br />
 
-Acesso Binder: [LINK](https://hub.gke.mybinder.org/user/brunocomitre-academic-research-vkgozg16/login?next=%2Fuser%2Fbrunocomitre-academic-research-vkgozg16%2Ftree)
+Dataset: [LINK](https://drive.google.com/drive/folders/1LqNzxY8l0EgznlCD-g873VD-ys1BRN2-?fbclid=IwAR0IFPxltN6X47gq85CEqz7yxbcz4GU06L64c5K3I71jaNYBSak2Nxh6osE)
