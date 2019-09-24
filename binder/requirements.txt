@@ -1,0 +1,5 @@
+names
+pandas
+plotly
+nltk
+tqdm
