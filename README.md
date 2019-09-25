@@ -1,6 +1,6 @@
 ## Fake News Automated Detection: Information integrity-aware searching
 
-This repository comprises all the resources associated with a scientific investigation on Fake News automated detection. It is also prepared for open-source computational environments (e.g. [mybinder.org](mybinder.org)), allowing full reproducibility of the experiments and trials conducted during this research investigation.
+This repository comprises all the resources associated with a scientific investigation on Fake News automated detection. It is also prepared for open-source computational environments (e.g. [mybinder.org](https://mybinder.org)), allowing full reproducibility of the experiments and trials conducted during this research investigation.
 
 ## Table of contents
 
