@@ -3,3 +3,11 @@ pandas
 plotly
 nltk
 tqdm
+#jupyter/jupyterlab extensions
+jupyterlab
+jupyter_contrib_nbextensions
+jupyterlab_launcher
+jupyterlab-git
+ipywidgets
+
+jupyter-server-proxy
