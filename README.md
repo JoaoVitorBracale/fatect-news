@@ -1,6 +1,6 @@
-## Fake News Automated Detection: Information integrity-aware searching
+## Fake News Automated Detection: Information integrity-aware classification
 
-This repository comprises all the resources associated with a scientific investigation on Fake News automated detection. It is also prepared for open-source computational environments (e.g. [mybinder.org](https://mybinder.org)), allowing full reproducibility of the experiments and trials conducted during this research investigation.
+This repository comprises all the resources associated with a scientific investigation on Fake News automated detection. It is also prepared for open-source computational environments (e.g. [mybinder.org](https://mybinder.org)), allowing full reproducibility of the experiments and trials conducted during this investigation.
 
 ## Table of contents
 
@@ -19,7 +19,7 @@ This repository comprises all the resources associated with a scientific investi
 
 ### The article
 
-Please see our notebook-based article via [this link](https://nbviewer.jupyter.org/github/BrunoComitre/fatect-news/blob/master/tcc.ipynb) to Nbviewer. (brazillian portuguese only)
+Please see our notebook-based article via [this link](https://nbviewer.jupyter.org/github/BrunoComitre/fatect-news/blob/master/tcc.ipynb?flush_cache=true) to Nbviewer. (brazillian portuguese only)
 
 ### Launching the code associated with this research on a [binderhub](https://github.com/jupyterhub/binderhub) instance.
 
