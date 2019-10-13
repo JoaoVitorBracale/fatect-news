@@ -19,7 +19,7 @@ This repository comprises all the resources associated with a scientific investi
 
 ### The article
 
-Please see our notebook-based article via [this link](https://nbviewer.jupyter.org/github/BrunoComitre/fatect-news/blob/master/tcc.ipynb) to Nbviewer. (brazillian portuguese only)
+Please see our notebook-based article via [this link](https://nbviewer.jupyter.org/github/BrunoComitre/fatect-news/blob/master/tcc.ipynb?flush_cache=true) to Nbviewer. (brazillian portuguese only)
 
 ### Launching the code associated with this research on a [binderhub](https://github.com/jupyterhub/binderhub) instance.
 
